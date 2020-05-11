@@ -12,9 +12,10 @@ This IS NOT a running project. It requires very custom, one-off hardware and use
 
 The menu file provided is the same one used at Bletchley Park to demonstrate their recreated Bombe.
 
-Additionally the code in generic BASIC and an explaintaion is provided in the file [bombBASIC.txt](bombeBASIC.txt)
+Additionally the code in generic BASIC and an explaination is provided in the file [bombBASIC.txt](bombeBASIC.txt)
+This BASIC code is written for a home made [6502 computer](https://web.archive.org/web/20190803190500/http://www.asciimation.co.nz/bb/category/6502-computer) using a modified version of the original MS BASIC. It should be similar enough to any generic 80s BASIC implementation to be easy enough to get running (very slowly)!
 
-And a version of the code that will run on an Arduino is available here: [bombcode.ino](/bombecode/bombcode.ino)
+And a version of the code that will run on an Arduino is available here: [bombecode.ino](/bombecode/bombecode.ino)
 
 ## Authors
 
