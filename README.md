@@ -12,6 +12,10 @@ This IS NOT a running project. It requires very custom, one-off hardware and use
 
 The menu file provided is the same one used at Bletchley Park to demonstrate their recreated Bombe.
 
+Additionally the code in generic BASIC and an explaintaion is provided in the file [bombBASIC.txt](bombeBASIC.txt)
+
+And a version of the code that will run on an Arduino is available here: [bombcode.ino](/bombecode/bombcode.ino)
+
 ## Authors
 
 * **Simon Jansen** - [Asciimation](http://www.asciimation.co.nz)
