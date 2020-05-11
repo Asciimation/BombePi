@@ -1,0 +1,23 @@
+* This menu is used to demonstrate the recreated Bombe at Bletchley Park.
+* This will generate two stops:
+* DKX:Q (correct stop)
+* FAN:K
+*
+Rotors: 2, 5, 3
+Reflector: B
+Test register: G
+Input voltage: A
+Drums: ZZK, ZZE, ZZF, ZZN, ZZM, ZZG, ZZP, ZZB, ZZJ, ZZI, ZZL, ZZO, ZZA
+Connections:
+U: 1i
+E: 1o, 2i, 7o, 8in
+G: 2o, 3i, 11o, 12i
+R: 3o, 4i, 10o, 11i 
+A: 4o, 5i
+S: 5o, 6i, 13o
+V: 6o, 7i
+N: 8o
+H: 9i 
+Z: 9o, 10i 
+L: 12o
+W: 13i
